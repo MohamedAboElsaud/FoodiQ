@@ -33,7 +33,7 @@ This app show and display menu of food restaurants , take orders ,and more...,le
 Clone the repository
 ```sh
 $ git clone https://github.com/mohamedaboelsaud/FoodiQ.git
-$ cd PitchPerfect
+$ cd FoodiQ
 ```
 
 Open the file `FoodiQ.xcodeproj` using Xcode 
