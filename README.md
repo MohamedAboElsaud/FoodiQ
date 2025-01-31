@@ -6,11 +6,7 @@ This app show and display menu of food restaurants , take orders ,and more...,le
   - categories, populars ,and snaks
   - orders list
   - details of all dishes 
-
-
-
- ### Screenshot
-
+## Screenshot
  <div align="center">
   
   <img width="260" alt="Screenshot " src="https://github.com/MohamedAboElsaud/FoodiQ/blob/main/Assets/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202025-01-28%20at%2018.50.50-compressed.jpeg">
