@@ -1,11 +1,10 @@
 # FoodiQ
- FoodiQ app using Swift,uikit, and more...
-This app shows and displays menus of food restaurants, take orders,a nd more... ,let discover it in screenshots and gifs.
+FoodiQ app using Swift, UIKit, URLSession and Third-party libraries with MVC architecture. Showcase restaurant menus and simplify ordering, FoodiQ lets you explore menus and order with ease, The app aims to foster healthier lifestyles by combining real-time food monitoring with Calories insights.
 # Features
-  - Restaurant Menu
-  - categories, popular , and snacks
-  - orders list
-  - details of all dishes 
+  - **Restaurant Menus** Created to showcase restaurant menus and simplify ordering, FoodiQ lets you explore menus and order with ease!
+  - **categories, popular, and snacks** Built an innovative iOS application designed to enhance Meal offers and encourage healthy eating habits.
+  - **orders list**The app aims to foster healthier lifestyles by combining real-time food monitoring with Calories insights
+  - **details of all dishes**
 ## Screenshot
  <div align="center">
   
