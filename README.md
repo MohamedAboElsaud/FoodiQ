@@ -1,9 +1,9 @@
 # FoodiQ
- FoodiQ app using swift,uikit,and more...
-This app show and display menu of food restaurants , take orders ,and more...,let descover it in screenshots and gif.
+ FoodiQ app using Swift,uikit, and more...
+This app shows and displays menus of food restaurants, take orders,a nd more... ,let discover it in screenshots and gifs.
 # Features
   - Restaurant Menu
-  - categories, populars ,and snaks
+  - categories, popular , and snacks
   - orders list
   - details of all dishes 
 ## Screenshot
